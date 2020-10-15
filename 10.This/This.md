@@ -32,3 +32,4 @@ Napisz kalkulator który będzie miał funkcję dodawania, odejmowania, mnożeni
 #### Zadanie 4
 
 Stwórz prosty symulator wchodzenia i schodzenia z drabiny. Potrzebne będą trzy metody. Zastanów się jakie?
+<!-- console. clear() -->
